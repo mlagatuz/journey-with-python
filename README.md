@@ -1,2 +1,5 @@
 # journey-with-python
-My learning Python journey
+
+My journey into learning **Python** and **Github**
+
+
