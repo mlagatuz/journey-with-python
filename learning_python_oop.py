@@ -1,7 +1,7 @@
 '''
 Created on Apr 16, 2022
 
-@author: marklagatuz
+@author: mlagatuz
 
 Coming from C-based programming languages (C/C++, Java), this is my attempt on
 learning the differences in OOP versus languages I've worked in
